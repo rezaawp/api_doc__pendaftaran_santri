@@ -902,6 +902,6 @@ Response (200) :
 }
 ```
 
-For Detail, Please Check <https://github.com/rezaawp/dokumentasi-be-pendaftaraan-santri>
+For Detail, Please Contact Me From <https://rezawp.com/#section_5>
 
 All responses based on database design
